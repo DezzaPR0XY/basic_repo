@@ -1,0 +1,25 @@
+#wrapper{
+  margin: 0px auto;
+  width:400px;
+  background:blueviolet;
+  color:greenyellow;
+}
+
+*{
+  font-family: sans-serif;
+}
+
+h1{
+  text-align: center;
+  display: block;
+}
+
+p{
+  text-align:center;
+  display:block;
+  font-size: 18px;
+}
+button {
+  display:block;
+  margin:0px auto;
+}
